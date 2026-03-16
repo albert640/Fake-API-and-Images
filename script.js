@@ -7,7 +7,7 @@ const yourInfo = {
     address: "Poblacion,Buug,Zamboanga,Sibugay", // Replace with your address
     country: "Philippines", // Replace with your country
     zip: "7009", // Replace with your ZIP
-    picture: "assets/1.jpg" 
+    picture: "1.jpg" 
 };
 
 // Fetch users from API and display them
